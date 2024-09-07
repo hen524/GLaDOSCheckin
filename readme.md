@@ -28,7 +28,7 @@ GitHub Actions 实现 [GLaDOS][glados] 自动签到
 
 ![03](https://github.com/user-attachments/assets/83a33754-60f2-470c-8617-1df377e46daa)
 
-### 4. 启用 Actions, 每天北京时间 00:10 自动签到
+### 4. 启用 Actions
 
 （1）打开 GitHub 仓库 Actions 标签页, 点击 I understand my workflows, go ahead and enable them
 
